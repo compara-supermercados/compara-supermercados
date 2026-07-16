@@ -16,7 +16,9 @@
 
 ## 🎓 Formação Acadêmica
 
-**Tecnologia em Processamento de Dados** — *Unisal* (em curso)
+**Tecnologia em Processamento de Dados** — *Unisal* Formado em 1995
+
+**Cursos Extra-curriculares** - SENAI 2026
 
 ---
 
