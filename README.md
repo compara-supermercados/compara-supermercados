@@ -65,7 +65,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Tecnologia em Processamento de Dados pela Unisal**, com foco em análise de dados, machine learning e desenvolvimento de soluções com inteligência artificial. Tenho experiência prática com o ecossistema Python (Pandas, Seaborn, Jupyter), versionamento com Git/GitHub e integração de APIs e serviços de nuvem.
+Sou formado em **Tecnologia em Processamento de Dados pela Unisal**, com foco em análise de dados, machine learning e desenvolvimento de soluções com inteligência artificial. Tenho experiência prática com o ecossistema Python (Pandas, Seaborn, Jupyter), versionamento com Git/GitHub e integração de APIs e serviços de nuvem.
 
 Estou em constante atualização nas áreas de **visão computacional (Ultralytics/YOLO)** e **plataformas de IA generativa**, buscando transformar dados em insights e soluções aplicáveis ao negócio.
 
